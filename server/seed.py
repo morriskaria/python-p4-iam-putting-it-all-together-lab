@@ -19,7 +19,7 @@ with app.app_context():
 
     print("Creating users...")
 
-    # make sure users have unique usernames
+ 
     users = []
     usernames = []
 
